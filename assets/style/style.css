@@ -1,0 +1,38 @@
+ body {
+      background-color: #f4f4f4;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .contenedor {
+      background-color: white;
+      padding: 30px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+      margin-bottom: 20px;
+    }
+
+    select {
+      font-size: 16px;
+      padding: 5px;
+      margin: 0 5px;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 6px 16px;
+      font-size: 14px;
+    }
+
+    #resultado {
+      margin-top: 20px;
+      font-weight: bold;
+    }
